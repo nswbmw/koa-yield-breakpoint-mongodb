@@ -1,0 +1,32 @@
+{
+  "name": "koa-yield-breakpoint-mongodb",
+  "version": "1.0.0",
+  "description": "mongodb backend store for [koa-yield-breakpoint](https://github.com/nswbmw/koa-yield-breakpoint)",
+  "main": "index.js",
+  "keywords": [
+    "koa",
+    "yield",
+    "breakpoint",
+    "mongodb"
+  ],
+  "author": {
+    "name": "nswbmw",
+    "email": "nswbmw1992@gmail.com"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=4"
+  },
+  "dependencies": {
+    "mongolass": "2.3.1"
+  },
+  "devDependencies": {
+    "koa": "1.2.4",
+    "koa-route": "2.4.2",
+    "koa-yield-breakpoint": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/koa-yield-breakpoint-mongodb"
+  }
+}
